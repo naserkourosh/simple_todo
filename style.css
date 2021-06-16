@@ -33,4 +33,6 @@ button{
     outline: none;
     border-radius: 6px;
     padding:.6rem 1rem;
+    color: #fff;
+    background-image: linear-gradient(to right, #743ad5 0%, #d53a9d  100%)
 }
